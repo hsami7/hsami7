@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m a **Cybersecurity Student** actively working to enhance my defensive and offensive skills through **lab environments** and real-world project simulations.<br>
+👯 I’m looking to collaborate on **CTF challenges** and open-source projects that map vulnerabilities to the **MITRE ATT&CK framework** to improve my analytical skills.<br>
+🤝 I’m looking for help with deepening my understanding of **eBPF** for low-level system tracing and **advanced malware analysis** techniques.<br>
+🌱 I’m currently learning to write effective **security policies** based on NIST standards, alongside mastering **secure coding practices** in Python and Go.<br>
+💬 Ask me about **Zero Trust principles**, basic **threat intelligence analysis**, **digital forensics**, or how to use a SIEM for detection.<br>
+⚡ Fun fact: I practice my command-line skills by pretending my terminal is the only way to interact with my computer (even for simple tasks!).
 
 
 ## 🌐 Socials:
